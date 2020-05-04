@@ -1,3 +1,4 @@
 server:
   port: 8081
-info.foo: bar
+info:
+  foo: bar
